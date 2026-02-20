@@ -1,2 +1,1 @@
-# evangelion-weather-app
-Evangelion Weather App
+evangelion weather app
